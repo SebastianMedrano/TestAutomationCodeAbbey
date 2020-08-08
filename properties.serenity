@@ -1,0 +1,4 @@
+webdriver.driver=chrome
+webdriver.chrome.driver = src/test/resources/drivers/chromedriver.exe
+chrome.switches = --start-maximized
+serenity.report.encoding=UTF-8
